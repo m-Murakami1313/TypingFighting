@@ -1,2 +1,2 @@
-# TypingFighting
+# FightingTyping
 Created with CodeSandbox
